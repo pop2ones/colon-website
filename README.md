@@ -24,4 +24,4 @@
 
 # 反馈
 
-如果您有任何意见或建议，请随时发送邮件到[我的邮箱](mailto:pop2ones@icloud.com)
+如果您有任何意见或建议，请随时发送邮件到[我的邮箱](mailto:pop2ones@icloud.com?subject=冒号编辑器反馈)
