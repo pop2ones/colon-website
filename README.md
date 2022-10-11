@@ -12,9 +12,9 @@
 
 # 软件截图
 
-![1](6.5 editor.png) | ![2](2.png) | ![3](3.png)
+![editor](6.5_editor.png) | ![live record](6.5_live_record.png) | ![correct segment](6.5_correct_segment.png)
 --- | --- | ---
-![4](4.png) | ![5](5.png) |
+![table of contents](6.5_table_of_contents.png) | ![document group](6.5_document_group.png) |
 
 # 特色功能
 
